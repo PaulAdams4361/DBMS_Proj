@@ -2,3 +2,4 @@
 *.sql linguist-detectable=true
 *.yml linguist-detectable=false
 *.md linguist-detectable=false
+*.tex linguist-detectable=false
