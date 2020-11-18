@@ -1,2 +1,2 @@
 HQL/* linguist-documentation
-*.tex linguist-language=SQL
+*.tex linguist-detectable=false
