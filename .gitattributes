@@ -1,1 +1,2 @@
 reports/* linguist-documentation
+reports/*.ipynb linguist-language=SQL
