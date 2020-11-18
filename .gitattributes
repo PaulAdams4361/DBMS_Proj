@@ -1,0 +1,4 @@
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+*.yml linguist-detectable=false
+*.md linguist-detectable=false
