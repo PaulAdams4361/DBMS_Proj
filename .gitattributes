@@ -1,1 +1,2 @@
 HQL/* linguist-documentation
+*.ipynb linguist-language=SQL
