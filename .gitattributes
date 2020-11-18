@@ -1,3 +1,3 @@
-reports/*.sql linguist-language=SQL
+reports/* linguist-language=SQL
 *.sql linguist-detectable=true
 *.md linguist-detectable=false
